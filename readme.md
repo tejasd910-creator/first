@@ -1,0 +1,1 @@
+adding my first repo in git hub and adding readme file
