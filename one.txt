@@ -1,1 +1,3 @@
 first git adding project
+adding data after creating linkage
+adding more data after writing git push -u origin main
